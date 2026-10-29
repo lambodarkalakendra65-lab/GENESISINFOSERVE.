@@ -1,0 +1,6 @@
+{
+  "name": "Genesis Infoserve - AI Lead Gen & Calling Desk CRM",
+  "description": "Enterprise Auto Lead Generation engine (LinkedIn, IndiaMART, Google Maps), contact verification, role-based access control for 25 employees and 2 super admins, real-time lead locking, and daily calling desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
